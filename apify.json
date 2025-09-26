@@ -1,0 +1,8 @@
+{
+  "name": "cva-auctions-scraper",
+  "version": "0.0.1",
+  "buildTag": "latest",
+  "env": {
+    "START_URL": "https://www.cva-auctions.co.uk/auctions"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cva-auctions-scraper",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "crawlee": "^3.7.0",
+    "playwright": "^1.40.0"
+  }
+}
